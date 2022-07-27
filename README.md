@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m an IoT developer who is currently working on GCP, AWS connecting intelligent devices.
+I’m an IoT developer who is currently working on GCP, AWS connecting devices.
